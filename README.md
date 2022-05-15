@@ -26,7 +26,7 @@ Atualmente estou trabalhando com essas tecnlogias:
 <br/>
 <br/>
 
-<hr>
+<hr style="color:green;"/>
 
 
 ## Hi, My name is Leonardo Belilo Messias. - ENG
