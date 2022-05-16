@@ -1,5 +1,7 @@
  PT-BR
-Eu acredito que a tecnologia pode ajudar as pessoas a terem uma vida melhor, e eu estou trabalhando para que isso aconteça.<br/>
+ <br/>
+#### "Eu acredito que a tecnologia pode ajudar as pessoas a terem uma vida melhor, e eu estou trabalhando para que isso aconteça."
+<br/>
 Atualmente estou trabalhando com essas tecnlogias:
 
 <div style="display:flex;">
@@ -29,8 +31,9 @@ Atualmente estou trabalhando com essas tecnlogias:
 <hr style="color:green;"/>
 
 ENG
-
-I believe technology can help people have a better life, and I'm working to make that happen.<br/>
+<br/>
+#### "I believe technology can help people have a better life, and I'm working to make that happen."
+<br/>
 I'm currently working with these technologies
 
 <div style="display:flex;">
