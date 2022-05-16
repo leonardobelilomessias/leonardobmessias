@@ -1,5 +1,5 @@
-## Olá, meu nome é Leonardo Belilo Messias. - PT-BR
-Eu acredito que a tecnologia pode ajudar as pessoas a terem uma vida melhor, e eu estou trabalhando duro para que isso aconteça.<br/>
+ PT-BR
+Eu acredito que a tecnologia pode ajudar as pessoas a terem uma vida melhor, e eu estou trabalhando para que isso aconteça.<br/>
 Atualmente estou trabalhando com essas tecnlogias:
 
 <div style="display:flex;">
@@ -28,10 +28,9 @@ Atualmente estou trabalhando com essas tecnlogias:
 
 <hr style="color:green;"/>
 
+ENG
 
-## Hi, My name is Leonardo Belilo Messias. - ENG
-
-I believe technology can help people have a better life, and I'm working hard to make that happen.<br/>
+I believe technology can help people have a better life, and I'm working to make that happen.<br/>
 I'm currently working with these technologies
 
 <div style="display:flex;">
